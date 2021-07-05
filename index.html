@@ -13,28 +13,31 @@
         
         <div class="subcontainer">
 
-           <h1>Sorteio</h1>
+            <h1>Sorteio</h1>
+           <div class="fixedContainer">
 
-            <div class= "medium">
-                <p id="numSorte">O número da sorte é:
-                </p>
-                <br><br>
-                <p id="sorteado"></p>
-            </div>
+                <div class="numSorte"><p>Descubra seu número da sorte!</p>
+                </div>
+           </div>
+            
+                <div id="sorteado" class="box"></div>
+            
             <br>
             <div class="typed">
 
                 <span class="text">Sortear número entre
-                <input onchange="armazenar(this.value)" class="input" id="campo1" type="number"> a
-                
-                <input onchange="armazenar(this.value)" id="campo2" class="input" type="number">
-            </span> 
+                <input class="input" id="campo1" type="number"> a
+                <input class="input" id="campo2" type="number">     
+                </span>
+
             </div>
             <div class="divButton">
-                <span id="botao">SORTEAR</span>
+                <span type="button" class="btn btn-1">SORTEAR</span>
             </div>
         </div>
     </div>
+<br>
+    
 </body>
 <script src="./script.js"></script>
 </html>
