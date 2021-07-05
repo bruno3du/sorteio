@@ -8,3 +8,8 @@ Isso por que permite que o usuário escolha entre um número a outro, como de 0 
 Este dinamismo permite que o usuario interaja de forma eficiente e alternativamente com a aplicação.
 
 LINK PARA ACESSAR O PROJETO: https://bruno3du.github.io/sorteio/
+
+### TO DESKTOP
+<p align="center">
+  <img src="./apresentacaoSorteio.gif">
+</p>
