@@ -14,4 +14,4 @@ LINK PARA ACESSAR O PROJETO: https://bruno3du.github.io/sorteio/
   <img src="./apresentacaoSorteio.gif">
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c7721d3-df6b-4ea9-bc5d-635a6052016f/deploy-status)](https://app.netlify.com/sites/sorteie/deploys)
+
